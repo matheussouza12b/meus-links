@@ -21,6 +21,10 @@ div {
     border-radius: 12px;
 }
 
+h1, p, a {
+    color: #fff;
+}
+
 div img {
     border-radius: 50%;
     margin-bottom: 24px;
@@ -30,5 +34,15 @@ div h1{
      font-size: 24px;
     line-height: 36px;
     font-weight: 600;
+    margin-bottom: 4px;
    
+}
+div strong {
+    color: #c4f82a;
+    font-size: 14px;
+    line-height: 21px;
+}
+
+div p{
+    margin-block: 24px;
 }
